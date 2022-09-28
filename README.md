@@ -17,7 +17,7 @@ The viewer is built on **[xeokit](http://xeokit.io)**, and is bundled as part of
 The viewer is developed by [xeolabs](http://xeolabs.com) and [OpenProject](https://www.openproject.org/), and is
 integrated within [OpenProject BIM 10.4](https://www.openproject.org/openproject-bim-10-4/) and later.
 
-The viewer can be used as a stand-alone JavaScript application. In combination with open source CLI model conversion
+The viewer that can be used as a stand-alone JavaScript application. In combination with open source CLI model conversion
 tools, it represents a low-cost, high-performance way to get your IFC models on the Web, that allows you the freedom to
 convert and host your models on your own server or GitHub repository.
 
